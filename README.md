@@ -16,6 +16,7 @@ MyBot-App-OOP2-Project/
 ├── src/                   # Java source code
 ├── images/                # All project images used in the UI
 ├── MyBot App.pdf          # Full project proposal & documentation
+├── OutputAPP.pdf          # Full project Outputs
 └── README.md              # Project documentation
 ```
 
