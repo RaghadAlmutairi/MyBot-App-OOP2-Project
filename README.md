@@ -111,7 +111,7 @@ More details can be found in:
 
 4. Run:
    ```
-   Main.java
+   MyBot.java
    ```
 
 ---
